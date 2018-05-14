@@ -15,6 +15,6 @@ This sample app is a starting point for building PWAs. It is a fork of PWA Start
 - redux-saga usage for handling side effects
 
 ## TODO
-[] Add a sample to query a firestore collection
-[] Add a document editor view to change a firestore document
-[] React to firestore realtime db events
+- [ ] Add a sample to query a firestore collection
+- [ ] Add a document editor view to change a firestore document
+- [ ] React to firestore realtime db events
